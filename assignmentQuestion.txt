@@ -1,0 +1,15 @@
+Assignment 16 | Create preloader, bubble, bar, solar system, and wave animations using CSS keyframes and animation properties.
+
+
+Website Links:-
+
+1). Bubble Animation -  https://wscubetech.co/Assignments/Assigment-16/bubbleanimation.html
+
+2). Bar Animation - https://wscubetech.co/Assignments/Assigment-16/bar.html
+
+3). Rotate Animation (Solar System) - https://wscubetech.co/Assignments/Assigment-16/rotate.html
+
+4). Wave Animation - https://wscubetech.co/Assignments/Assigment-16/waveEffect.html
+
+5). Website Preloader - https://wscubetech.co/Assignments/Assigment-16/
+
